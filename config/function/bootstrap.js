@@ -1,3 +1,3 @@
 module.exports = ({ strapi }) => {
-    require('./websocket')({ strapi });
+    require('./webSocket')({ strapi });
   };
